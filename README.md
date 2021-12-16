@@ -7,7 +7,7 @@ _____
 passwordsilo is a simple password generator Tool written in python  
 ___
 # screenshots :
-![N](https://i.imgur.com/TWT2rga.jpg)
+![N](https://i.imgur.com/wApFj3S.png)
 
 ## Features :
 
@@ -18,11 +18,6 @@ ___
 3 - Hard mood Generating
 4 - Complicated mood Generating
 
-# what is information gathering :
-
-> Information Gathering means gathering different kinds of information about the target. It is basically, the first step or the beginning stage of Ethical Hacking, where the penetration testers or hackers (both black hat or white hat) tries to gather all the information about the target, in order to use it for Hacking
-
-for more reading click here [geeksforgeeks.Information.Gathering](https://www.geeksforgeeks.org/kali-linux-information-gathering-tools/)
 
 
 
@@ -49,3 +44,22 @@ python3 passwordsilo.py
 # License
 MIT license
 
+Copyright (c) 2021 Mohammed Farhan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
