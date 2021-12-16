@@ -134,7 +134,7 @@ def generate_complicated_password():
 
 print(sin)
 choos()
-a = input(Fore.LIGHTBLUE_EX + "Coose one of the password options : ")
+a = input(Fore.LIGHTBLUE_EX + "Choose one of the password options : ")
 
 
 if a == '1':
