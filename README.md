@@ -41,26 +41,11 @@ Install the dependencies and devDependencies from the git clone command and the 
 
 ```sh
 sudo apt update
-git clone jndfbsbfsib
-cd wireme/
+git clone https://github.com/rexerf16/passwordsilo
+cd passwordsilo/
 pip install -r requirements.txt
-python3 wireme.py
+python3 passwordsilo.py
 ```
-# Technical problems that you might face :
-You might face this Error while using the tool :
-```sh
-AttributeError: 'module' object has no attribute 'PortScanner'
-```
-# solution :
-You likely installed the package "nmap", not "python-nmap"
-to solve this problem follow the steps below :
-```sh
-pip uninstall nmap
-pip uninstall python-nmap
-pip install python-nmap
-```
-That should fix the problem if it doesn't Start Troubleshooting....
-
 # License
 MIT license
 
