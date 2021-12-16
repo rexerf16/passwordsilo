@@ -30,7 +30,7 @@ Termux
 
 ## Installation :
 
-wireme requires [Python3](https://www.python.org/downloads/release/python-3810/) v3.8.10+ to run.
+passwordsilo  requires [Python3](https://www.python.org/downloads/release/python-3810/) v3.8.10+ to run.
 also You need [pip](https://pypi.org/project/pip/) v20.0.2+ to run.
 Install the dependencies and devDependencies from the git clone command and the requirtment file then start the tool.
 
